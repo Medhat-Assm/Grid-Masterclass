@@ -36,6 +36,8 @@ Colorful, modern design elements
 
 🖼️ Screenshots
 
+![screencapture-file-C-Users-Medha-Developer-Route-Academy-Front-End-Grid-Masterclass-index-htm-2025-04-24-23_58_53](https://github.com/user-attachments/assets/d6e3b3b5-6712-4c66-9c05-9868597db0f7)
+
 
 🚀 Getting Started
 
